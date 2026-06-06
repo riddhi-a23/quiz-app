@@ -74,12 +74,6 @@ src/
 
 ---
 
-## Screenshots
-
-
-
----
-
 ## License
 
 MIT
